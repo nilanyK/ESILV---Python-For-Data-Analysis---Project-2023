@@ -21,7 +21,7 @@ python run.py
 3. The output will display the link on which the server is running (for me it was http://127.0.0.1:5000, it might be different for you)
 4. Copy-paste the link on your browser.
 5. Fill in the form with your input data and submit it by clicking on the "Predict" button.
-6. After submitting the form, scroll down as the result of the prediction should be displayed (if either the customer will or will not purchase).
+6. After submitting the form, scroll down as the result of the prediction should be displayed (ie if either the customer will or will not purchase).
 
 
 
