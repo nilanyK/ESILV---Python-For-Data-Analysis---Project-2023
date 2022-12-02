@@ -2,7 +2,7 @@
 <br>
 
 ### Introduction
-This repository contains all files related to the final project of the course Python For Data Analysis. The goal of this end-of-semester project is to analyze a dataset, build a predictive model, and implement an API. Among the 3 datasets that were assigned to us, "Online Shopper Purchasing Intention dataset" is the one that we have chosen to study. The purpose of this dataset is to predict the purchasing intentions of a visitor for a particular online store. 
+This repository contains all files related to the final project of the course Python For Data Analysis. The goal of this final project is to analyze a dataset, build a predictive model, and implement an API. Among the 3 datasets that were assigned to us, "Online Shopper Purchasing Intention dataset" is the one that we have chosen to study. The purpose of this dataset is to predict the purchasing intentions of a visitor for a particular online store. 
 
 ### Dataset Description
 
