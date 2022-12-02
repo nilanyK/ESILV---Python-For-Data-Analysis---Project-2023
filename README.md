@@ -12,7 +12,7 @@ The dataset consists of 10 numerical and 8 categorical attributes. The 'Revenue'
 As we noticed that our dataset was imbalanced, we decided to use the SMOTE ( Synthetic Minority Over-sampling Technique) method in order to obtain a balanced dataset.
 
 ### Problem definition & Predictive modeling
-This is a classification problem as the target variable is a discrete value (<code> True </code> or <code> False </code>) that indicates whether or not a user has purchased an item of an online store.
+This is a classification problem as the target variable is a discrete value (<code> True </code>  or  <code> False </code>) that indicates whether or not a user has purchased an item of an online store.
 Therefore we have used the following classification algorithms to determine the best model: 
         -  KNN <br>
         -  Naive Bayes Classifier <br>
