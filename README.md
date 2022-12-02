@@ -23,7 +23,8 @@ Therefore we have used the following Classification algorithms to determine the 
         -  Stochastic Gradient Descent <br>
         -  Gradient Boosting Score <br>
 
-For each model, we performed a Grid Search Cross Validation in order to find the best parameters for each model. For every model, we used the metric f1, as it combines the metrics precision and recall. The metric f1 is also a good metric to measure the performance of classification models and can be used for balanced datasets We also displayed confusion matrix for every model in order to know if our model did good predictions of both classes. That was the case thanks to the SMOTE method. Our criteria. Our best model selection criterion is the score obtained by each one of them.
+<br> For each model, we performed a Grid Search Cross Validation in order to find the best parameters for each model. For every model, we used the metric f1, as it combines the metrics precision and recall. The metric f1 is also a good metric to measure the performance of classification models and can be used for balanced datasets We also displayed confusion matrix for every model in order to know if our model did good predictions of both classes. That was the case thanks to the SMOTE method. 
+<br> Our best model selection criterion is the score obtained by each one of them.
 The models that are standing out are respectively XGBoost, Random Forest, and Decision Tree.
 Among these three, based on their scores on the test set, the best classifier is XGBoost. Thus, it's the one that we are going to export for our API.
 
