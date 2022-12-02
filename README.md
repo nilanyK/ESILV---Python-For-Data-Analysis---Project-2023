@@ -30,16 +30,16 @@ Among these three, based on their scores on the test set, the best classifier is
 
 
 ### API Implementation
-1. Download and extract the zip file related to this repository.
-1. Open the file titled "API" on Visual Studio Code or another IDE of your choice.
-2. Open a terminal and execute the "run.py" file by entering the following command :
+1. Download and extract the zip file related to our this repository.
+2. Open the folder titled "API" on Visual Studio Code or another IDE of your choice.
+3. Open a terminal and execute the "run.py" file by entering the following command :
 ```python
 python run.py
 ```
-3. The output will display the link on which the server is running (for me it was http://127.0.0.1:5000, it might be different for you)
-4. Copy-paste the link on your browser.
-5. Fill in the form with your input data and submit it by clicking on the "Predict" button.
-6. After submitting the form, scroll down as the result of the prediction should be displayed (ie if either the customer will or not purchase).
+4. The output will display the link on which the server is running (for me it was http://127.0.0.1:5000, it might be different for you)
+5. Copy-paste the link on your browser.
+6. Fill in the form with your input data and submit it by clicking on the <code> Predict </code> button.
+7. After submitting the form, scroll down as the result of the prediction should be displayed (ie if either the customer will or not purchase).
 
 
 
