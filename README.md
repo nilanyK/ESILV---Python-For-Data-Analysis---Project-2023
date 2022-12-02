@@ -8,7 +8,7 @@ ESILV - Python For Data Analysis - Project 2023 <br>
 
 
 ### Introduction
-This repository contains all files related to the final project of the course Python For Data Analysis. This project aims  to analyze a dataset, build a predictive model, and implement an API. Among the 3 datasets that were assigned to us, "Online Shopper Purchasing Intention dataset" is the one that we have chosen to study. 
+This repository contains all files related to the final project of the course Python For Data Analysis. The project aims  to analyze a dataset, build a predictive model, and implement an API. Among the 3 datasets that were assigned to us, "Online Shopper Purchasing Intention dataset" is the one that we have chosen to study. 
  
 ### Purpose
 The purpose of this project is to predict the purchasing intention of a visitor for a particular online store. 
