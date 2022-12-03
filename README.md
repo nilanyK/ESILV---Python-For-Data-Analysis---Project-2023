@@ -46,11 +46,3 @@ python run.py
 5. Copy-paste the link on your browser.
 6. Fill in the form with your input data and submit it by clicking on the  <code> Predict </code>  button.     
 7. After submitting the form, scroll down as the result of the prediction should be displayed (ie if either the customer will or not purchase).
-
-
-
-
-
-
-
-
